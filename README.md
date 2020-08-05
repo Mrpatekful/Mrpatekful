@@ -3,15 +3,6 @@
 - **Natural Language Processing Engineer** at Talk-a-Bot, developing customer service dialogue agents
 - **Masters Student** at Budapest University of Technology and Economics
 
-
-### 💡 My interests
-
-- 💬 *Open-domain dialogue modeling*
-- 🕹️ *Game development with the [Godot](https://godotengine.org/) game engine*
-- :hungary: *Contributing to open-source Hungarian Natural Language Processing*
-- ⛏️ *Web scraping and data mining*
-- :snake: *Writing idiomatic Python code*
-
 ### 📫 Contacts
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrik-purgai-7b9044164/)](https://www.linkedin.com/in/patrik-purgai-7b9044164/)
