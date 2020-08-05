@@ -1,7 +1,7 @@
 ### :rocket: Occupations
 
-- **Natural Language Processing Engineer** at Talk-a-Bot, developing customer service dialogue agents
-- **Masters Student** at Budapest University of Technology and Economics
+- :office: **Natural Language Processing Engineer** at Talk-a-Bot, developing customer service dialogue agents
+- :mortar_board: **Masters Student** at Budapest University of Technology and Economics
 
 ### 📫 Contacts
 
